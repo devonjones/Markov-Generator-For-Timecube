@@ -1,0 +1,10 @@
+src.txt is scraped off http://timecube.com/ and 
+http://timecube.com/timecube2.html and is owned and copyrighted by Gene Ray.
+
+Used totally without his permission for the purposes of mockery.
+
+Getting Started:
+./markov.py --input src.txt
+
+Help:
+./markov.py --help
